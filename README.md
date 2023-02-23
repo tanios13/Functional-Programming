@@ -3,7 +3,7 @@
 
 Lab to get familiar with scala and functional programming
 
-## What I learn from this project
+## What I learned from this project
 * Learn coding in scala
 * Learn about recursion and tail recursion
 * Learn about reduction
